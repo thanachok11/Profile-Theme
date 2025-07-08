@@ -31,9 +31,15 @@
 - Context API สำหรับจัดการธีม
 ---
 
-| หน้าจอโปรไฟล์ (ตัวอย่าง) |
+| หน้าจอโปรแกรม (ตัวอย่าง) |
 |---------------------------|
 <img src="./image/IMG_3229.PNG"  width="100"/>
+<img src="./image/IMG_3230.PNG"  width="100"/>
+<img src="./image/IMG_3231.PNG"  width="100"/>
+<img src="./image/IMG_3232.PNG"  width="100"/>
+<img src="./image/IMG_3233.PNG"  width="100"/>
+<img src="./image/IMG_3234.PNG"  width="100"/>
+
 
 ---
 
