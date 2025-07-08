@@ -31,14 +31,16 @@
 - Context API สำหรับจัดการธีม
 ---
 
-| หน้าจอโปรแกรม (ตัวอย่าง) |
-|---------------------------|
-<img src="./image/IMG_3229.PNG"  width="100"/>
-<img src="./image/IMG_3230.PNG"  width="100"/>
-<img src="./image/IMG_3231.PNG"  width="100"/>
-<img src="./image/IMG_3232.PNG"  width="100"/>
-<img src="./image/IMG_3233.PNG"  width="100"/>
-<img src="./image/IMG_3234.PNG"  width="100"/>
+<h3>หน้าจอโปรแกรม (ตัวอย่าง)</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 340px;">
+  <img src="./image/IMG_3229.PNG" width="100"/>
+  <img src="./image/IMG_3230.PNG" width="100"/>
+  <img src="./image/IMG_3231.PNG" width="100"/>
+  <img src="./image/IMG_3232.PNG" width="100"/>
+  <img src="./image/IMG_3233.PNG" width="100"/>
+  <img src="./image/IMG_3234.PNG" width="100"/>
+</div>
 
 
 ---
