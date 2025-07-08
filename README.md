@@ -47,7 +47,7 @@
 
 ## ⚙️ การติดตั้ง
 
-1. ติดตั้ง Expo CLI (ถ้ายังไม่เคย):
+1. ติดตั้ง Expo ถ้าอยากใช้งานโปรแกรม:
 ```bash
    npm install -g expo-cli
    npx expo install react-native-screens react-native-safe-area-context

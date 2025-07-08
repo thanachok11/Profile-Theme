@@ -52,21 +52,24 @@ export default function AboutMeScreen({ navigation }) {
                             </View>
                         ))}
                     </View>
-
                     <TouchableOpacity
                         style={[
                             styles.button,
-                            { backgroundColor: theme.name === 'light' ? '#007AFF' : '#4ca1af' },
+                            {
+                                backgroundColor: theme.name === 'light' ? '#34C759' : '#27ae60',
+                                marginTop: 10,
+                            },
                         ]}
-                        onPress={() => navigation.navigate('Home')}
+                        onPress={() => navigation.navigate('CourseScreen')}
                     >
-                        <Text style={styles.buttonText}>← กลับหน้าแรก</Text>
+                        <Text style={styles.buttonText}>📚 เกี่ยวกับรายวิชา</Text>
                     </TouchableOpacity>
                 </View>
             </View>
         </LinearGradient>
     );
 }
+
 const styles = StyleSheet.create({
     gradientBackground: {
         flex: 1,
